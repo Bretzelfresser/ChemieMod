@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "chemie:polonium_block"
+        }
+    ],
+    "result": {
+        "item": "chemie:polonium",
+        "count": 9
+    }
+}

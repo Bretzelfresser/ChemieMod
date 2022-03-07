@@ -1,0 +1,12 @@
+{
+	"type": "chemie:reaction_chamber",
+	"input": {
+		"item": "chemie:sulfur",
+		"count": 3
+	},
+	"output": {
+		"item": "minecraft:coal",
+		"count": 6
+	},
+	"reactionTime": 400
+}

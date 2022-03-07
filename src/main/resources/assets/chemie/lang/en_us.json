@@ -1,0 +1,47 @@
+{
+	"item.chemie.sulfur" : "Sulfur",
+	"item.chemie.polonium":"Polonium",
+	"item.chemie.lead_helmet":"Lead Helmet",
+	"item.chemie.lead_boots":"Lead Boots",
+	"item.chemie.lead_leggins":"Lead Leggins",
+	"item.chemie.lead_chestplate":"Lead Chestplate",
+	"item.chemie.lead_ingot":"Lead Ingot",
+	"item.chemie.uranium":"Uranium Ingot",
+	"item.chemie.uranium_nugget":"Uranium Nugget",
+	"item.chemie.polonium_nugget":"Polonium Nugget",
+	"item.chemie.lead_nugget":"Lead Nugget",
+	
+	"block.chemie.sulfur_ore": "Sulfur Ore",
+	"block.chemie.lead_ore": "Lead Ore",
+	"block.chemie.lead_block": "Lead Block",
+	"block.chemie.polonium_block": "Polonium Block",
+	"block.chemie.uranium_block": "Uranium Block",
+	"block.chemie.sulfur_block":"Sulfur Block",
+	"block.chemie.reaction_chamber":"Reaction Chamber",
+	"block.chemie.fridge":"Fridge",
+	"block.chemie.sifter":"Sifter",
+	
+	"itemGroup.chemie.ores":"Ores",
+	"itemGroup.chemie.machines":"Machines",
+	"itemGroup.chemie.elements":"Elements",
+	
+	"death.attack.radiation":"Player Died to Radiation",
+	
+	"container.chemie.fridge":"Fridge",
+	"container.chemie.sifter":"Sifter",
+	"container.chemie.reaction_chamber":"Reaction Chamber",
+	
+	"effect.chemie.radiation":"Radiation",
+	"item.minecraft.potion.effect.radiation":"Potion of Radioactive Water",
+	"item.minecraft.potion.effect.long_radiation":"Potion of Radioactive Water",
+	"item.minecraft.potion.effect.strong_radiation":"Potion of Radioactive Water",
+	"item.minecraft.splash_potion.effect.radiation":"Splash Potion of Radioactive Water",
+	"item.minecraft.splash_potion.effect.long_radiation":"Splash Potion of Radioactive Water",
+	"item.minecraft.splash_potion.effect.strong_radiation":"Splash Potion of Radioactive Water",
+	"item.minecraft.lingering_potion.effect.radiation":"Lingering Potion of Radioactive Water",
+	"item.minecraft.lingering_potion.effect.long_radiation":"Lingering Potion of Radioactive Water",
+	"item.minecraft.lingering_potion.effect.strong_radiation":"Lingering Potion of Radioactive Water",
+	"item.minecraft.tipped_arrow.effect.radiation":"Radioactive Arrow",
+	"item.minecraft.tipped_arrow.effect.long_radiation":"Radioactive Arrow",
+	"item.minecraft.tipped_arrow.effect.strong_radiation":"Radioactive Arrow"
+}

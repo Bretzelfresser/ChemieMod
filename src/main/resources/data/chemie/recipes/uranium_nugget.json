@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "chemie:uranium"
+        }
+    ],
+    "result": {
+        "item": "chemie:uranium_nugget",
+        "count": 9
+    }
+}

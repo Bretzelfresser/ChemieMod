@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "chemie:block/reaction_chamber"
+		},
+		"facing=east": {
+			"model": "chemie:block/reaction_chamber",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "chemie:block/reaction_chamber",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "chemie:block/reaction_chamber",
+			"y": 270
+		}
+	}
+}

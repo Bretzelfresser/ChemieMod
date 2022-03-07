@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "chemie:block/sifter"
+		},
+		"facing=east": {
+			"model": "chemie:block/sifter",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "chemie:block/sifter",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "chemie:block/sifter",
+			"y": 270
+		}
+	}
+}

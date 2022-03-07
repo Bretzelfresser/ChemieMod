@@ -1,0 +1,11 @@
+{
+	"type": "chemie:sifter_recipe",
+	"input": {
+		"item": "minecraft:coal"
+	},
+	"output": {
+		"item": "minecraft:diamond",
+		"count": 1
+	},
+	"siftingTime": 1200
+}

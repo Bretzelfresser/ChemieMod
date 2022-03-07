@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "chemie:blocks/frige_side",
+        "up": "chemie:blocks/frige_top",
+        "down": "chemie:blocks/fridge_bottom",
+        "north": "chemie:blocks/frige_front",
+        "south": "chemie:blocks/frige_side",
+        "east": "chemie:blocks/frige_side",
+        "west": "chemie:blocks/frige_side"
+    }
+}

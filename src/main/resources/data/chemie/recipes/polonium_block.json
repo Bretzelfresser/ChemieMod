@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "chemie:polonium"
+        }
+    },
+    "result": {
+        "item": "chemie:polonium_block",
+        "count": 1
+    }
+}

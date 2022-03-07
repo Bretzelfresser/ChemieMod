@@ -1,0 +1,11 @@
+{
+	"type": "chemie:sifter_recipe",
+	"input": {
+		"item": "chemie:polonium"
+	},
+	"output": {
+		"item": "chemie:sulfur",
+		"count": 2
+	},
+	"siftingTime": 400
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "chemie:sulfur"
+        }
+    },
+    "result": {
+        "item": "chemie:sulfur_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "chemie:block/fridge"
+		},
+		"facing=east": {
+			"model": "chemie:block/fridge",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "chemie:block/fridge",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "chemie:block/fridge",
+			"y": 270
+		}
+	}
+}
